@@ -1,0 +1,44 @@
+{
+  "name": "grunt-firetpl-compile",
+  "description": "Compiles .fire templates into HTML",
+  "version": "0.1.0",
+  "homepage": "",
+  "author": {
+    "name": "Andi Oxidant",
+    "email": "andi.oxidant@noname-media.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "^0.9.2",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt": "~0.4.4",
+    "grunt-mocha-test": "~0.11.0",
+    "expect.js": "~0.3.1"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.4"
+  },
+  "keywords": [
+    "gruntplugin"
+  ],
+  "dependencies": {
+  }
+}
