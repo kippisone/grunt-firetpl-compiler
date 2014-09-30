@@ -1,18 +1,18 @@
 {
   "name": "grunt-firetpl-compile",
   "description": "Compiles .fire templates into HTML",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "homepage": "",
   "author": {
-    "name": "Andi Oxidant",
+    "name": "AndiOxidant",
     "email": "andi.oxidant@noname-media.com"
   },
   "repository": {
     "type": "git",
-    "url": "none"
+    "url": "https://github.com/AndiOxidant/grunt-firetpl-compile"
   },
   "bugs": {
-    "url": ""
+    "url": "https://github.com/AndiOxidant/grunt-firetpl-compile/issues"
   },
   "licenses": [
     {
@@ -37,8 +37,11 @@
     "grunt": "~0.4.4"
   },
   "keywords": [
-    "gruntplugin"
+    "gruntplugin",
+    "firetpl",
+    "template"
   ],
   "dependencies": {
+    "firetpl": "^0.2.0"
   }
 }
