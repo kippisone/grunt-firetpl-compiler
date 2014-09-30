@@ -1,7 +1,7 @@
 {
   "name": "grunt-firetpl-compile",
   "description": "Compiles .fire templates into HTML",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "homepage": "",
   "author": {
     "name": "AndiOxidant",
